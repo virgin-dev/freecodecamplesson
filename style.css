@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+}
+h1,h2,h3,div,p,img,a,section {
+    border: 2px solid red;
+}
+
+.main {
+    max-width: 1920px;
+}
+.header {
+
+}
